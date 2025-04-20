@@ -1,2 +1,2 @@
 ıstedıgınız yerde taratabilirsiniz grab koymadım httpdebuggerden vb bakabılırsınız source ısteyenlerede atabilirim yanlız spammer calısıyor requestı yanlıs atıyor buyuzdende mfa fıxleyınce urlyi alamama ıhtımalı var hesaba gore degısıyo eğer bir mfafixer kodunuz varsa 
-mal dumbass codder gibi gptye bu kodu mfa.go daki gibi multi factor authentication DOĞRULAMASINI GEÇMEK İÇİN düzenle sorunsuz olarak çalışsın vb derseniz bile çalışır hadi mallar
+mal dumbass codder gibi gptye bu kodu mfa.go daki gibi multi factor authentication DOĞRULAMASINI GEÇMEK İÇİN düzenle sorunsuz olarak çalışsın vb derseniz bile çalışır hadi mallar gorebileceginiz en hızlı spammer public yani eğer düzeltirseniz fixleyebilirseniz tamamen herseyi cekersiniz
